@@ -2,3 +2,14 @@ This repository contains two files.
 - summery.xlxs:  contains the ID of the title, the title, the abstract, and the doi of the scholarly paper.
 - UStAI.csv: contains the generated user stories, and the annotation
 
+If used, cite: 
+
+@misc{yamani2025leveragingllmsuserstories,
+      title={Leveraging LLMs for User Stories in AI Systems: UStAI Dataset}, 
+      author={Asma Yamani and Malak Baslyman and Moataz Ahmed},
+      year={2025},
+      eprint={2504.00513},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2504.00513}, 
+}
