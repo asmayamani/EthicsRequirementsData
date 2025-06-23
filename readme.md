@@ -4,13 +4,13 @@ This repository contains the dataset and summary files related to the research t
 
 ## Files Included
 
-1.  **`summery_2306.csv`**
+1.  **`summery.csv`**
     * **Description**: This file provides a summary of the included AI systems. It gives an overview of the systems from which the user stories were extracted or generated.
 
 2.  **`complete UStAI dataset.csv`**
     * **Description**: This file contains the unannotated full dataset of user stories. It includes the raw user stories before any annotation or quality assessment.
 
-3.  **`UStAI-24.csv`**
+3.  **`UStAI annotated.csv`**
     * **Description**: This file contains the annotated part of the dataset. The annotations are based on the Quality User Story (QUS) framework, which assesses the quality of user stories across various criteria.
 
 ### Column Headers in `UStAI-24.csv`
