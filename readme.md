@@ -30,13 +30,13 @@ The `UStAI-24.csv` file includes the following columns, with annotations based o
 * **`Problem-oriented`**: (QUS Syntactic Criterion) Indicates whether the user story focuses on a problem to be solved rather than a specific solution.
 * **`Unambiguous`**: (QUS Semantic Criterion) Indicates whether the user story has only one clear interpretation.
 * **`Conflict-free`**: (QUS Semantic Criterion) Indicates whether the user story contradicts other user stories or requirements.
-* **`Conflict-free, us`**: (QUS Semantic Criterion - User Specific) Indicates a user-specific assessment of whether the user story contradicts other user stories or requirements.
+* **`Conflict-free, us`**: (QUS Semantic Criterion - User Story) Indicates the source of conflict and conflicting user stories.
 * **`Estimatable`**: (QUS Semantic Criterion) Indicates whether the user story is detailed enough to allow for a reasonable effort estimation for implementation.
 * **`Independent`**: (QUS Semantic Criterion) Indicates whether the user story is self-contained and can be implemented independently of other user stories.
 * **`Unique`**: (QUS Semantic Criterion) Indicates whether the user story is distinct and not a duplicate of another existing user story.
-* **`Unique, us`**: (QUS Semantic Criterion - User Specific) Indicates a user-specific assessment of the uniqueness of the user story.
+* **`Unique, us`**: (QUS Semantic Criterion - User Story) Indicates the user stories that are duplicates or almost duplicate.
 * **`Meas-ends relation`**: (QUS Pragmatic Criterion) Indicates whether the user story clearly links to a measurable end or objective.
-* **`Meas-ends relation, us`**: (QUS Pragmatic Criterion - User Specific) Indicates a user-specific assessment of the measurable ends relation of the user story.
+* **`Meas-ends relation, us`**: (QUS Pragmatic Criterion - User Story) Indicates the user stories with means-ends relations.
 
 ## Citation
 
